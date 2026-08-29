@@ -14,10 +14,6 @@ A four-step questionnaire collects the pet's life stage, activity level, health 
 
 The point was to make the recommendation defensible, not just pleasant. Every suggestion traces back to something the user actually said about their pet, and every nutritional figure comes from a published source instead of being invented.
 
-## Screenshots
-
-`[add 2–3 screenshots: the questionnaire, the results page with the animated match ring, and the feeding plan / shareable card]`
-
 ## How it works
 
 **1. Profile capture.** A four-step flow collects life stage (`Junior` / `Adult` / `Senior`), activity (`Sedentario` → `Molto Attivo`), health concerns (digestion, skin & coat, weight control, picky appetite, intolerances), and weight, plus pet type and a sterilization flag for cats.
